@@ -7,7 +7,7 @@ Este projeto contém a análise de desempenho de vendas de quatro lojas da Alura
 A análise foi conduzida utilizando a linguagem de programação Python e as bibliotecas Pandas e Matplotlib, dentro do ambiente do Google Colab.
 
 Propósito da Análise:
-O principal objetivo foi fornecer ao Sr. João, proprietário das lojas, uma visão clara sobre o faturamento, satisfação do cliente e custos de frete de cada unidade. Com base nestes dados, foi possível emitir uma recomendação baseada em evidências para a venda de uma das lojas.
+O principal objetivo foi fornecer ao proprietário das lojas, uma visão clara sobre o faturamento, satisfação do cliente e custos de frete de cada unidade. Com base nestes dados, foi possível emitir uma recomendação baseada em evidências para a venda de uma das lojas.
 
 ## Estrutura do Projeto
 
